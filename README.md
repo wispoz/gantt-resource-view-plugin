@@ -1,5 +1,8 @@
 # gantt-resource-view-plugin
-Plugin for Bryntum Gantt
+Plugin for Show Resource Photo over task Bryntum Gantt
+
+[demo](https://fiddle.sencha.com/#view/editor&fiddle/2go8)
+
 
 ```javascript
 Ext.onReady(function(){
